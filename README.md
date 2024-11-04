@@ -115,6 +115,10 @@ There types of heatmaps available are:
 
 DAAM-I2I: Add Link to this project as citation in your work.
 
+## Papers Using DAAM-I2I
+- StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images [[Arxiv](https://arxiv.org/abs/2406.13735v1)]
+- Alfie: Democratising RGBA Image Generation With No $$$ [[Arxiv](https://arxiv.org/abs/2408.14826v1)]
+
 ## References
 
 - [Original DAAM](https://github.com/castorini/daam)
