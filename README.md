@@ -19,7 +19,8 @@ In [original DAAM paper](https://arxiv.org/abs/2210.04885), the author proposes 
 ## Getting Started
 First, install [PyTorch](https://pytorch.org) for your platform. 
 - You may check out the [Notebook](https://github.com/RishiDarkDevil/Text-Based-Object-Discovery/blob/main/Experiments/DAAM_Image_Attention_ver2.ipynb) to get started with the basics.
-- If you interested in various merging schemes for generate interesting heatmaps like the one shown above and use them for object detection leveraging [TITAN](https://github.com/RishiDarkDevil/TITAN), check out this [Colab Tutorial](https://colab.research.google.com/drive/1OeKbTPrtsovA08a5qztilaoWlV_emMIU?usp=sharing)
+- If you interested in various merging schemes for generate interesting heatmaps like the one shown above and use them for object detection leveraging [TITAN](https://github.com/RishiDarkDevil/TITAN), check out this [Colab Tutorial](https://colab.research.google.com/drive/1OeKbTPrtsovA08a5qztilaoWlV_emMIU?usp=sharing).
+- For Image-to-Image pipeline, where diffusion models can unravel the image segmentation and pick up object-level semantics seemingly by simply adding noise and denoising the original image is demonstrated in this [Ipython Notebook](https://github.com/RishiDarkDevil/Text-Based-Object-Discovery/blob/main/Experiments/DAAMI2I_Img2Img_Pipeline_ver5.ipynb). There are other interesting experiments presented in the [Text-Based Object Discovery](https://github.com/RishiDarkDevil/Text-Based-Object-Discovery) repo.
 
 ### Installation
 The following steps are useful for setting up `daami2i` package in Colab Environment.
@@ -114,6 +115,7 @@ There types of heatmaps available are:
 ## Citation
 
 DAAM-I2I: Add Link to this project as citation in your work.
+Author Name: Rishi Dey Chowdhury.
 
 ## Papers Using DAAM-I2I
 - StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images [[Arxiv](https://arxiv.org/abs/2406.13735v1)]
