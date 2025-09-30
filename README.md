@@ -121,6 +121,7 @@ Author Name: Rishi Dey Chowdhury.
 - StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images [[Arxiv](https://arxiv.org/abs/2406.13735v1)]
 - Alfie: Democratising RGBA Image Generation With No $$$ [[Arxiv](https://arxiv.org/abs/2408.14826v1)]
 - Mapping the Mind of an Instruction-based Image Editing using SMILE [[ResearchGate](http://dx.doi.org/10.48550/arXiv.2412.16277)]
+- Leveraging generative AI for cross-regional small object detection in satellite imagery [[SPIE Digital Library](https://doi.org/10.1117/12.3054372)]
 
 ## References
 
